@@ -1,0 +1,17 @@
+{
+  "name": "myutil",
+  "version": "1.0.0",
+  "description": "yangjinsheng first npm package test",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/yangjinsheng520/yjs-utils.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tool"
+  ],
+  "author": "yangjinsheng",
+  "license": "ISC"
+}
